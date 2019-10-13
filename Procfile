@@ -1,1 +1,0 @@
-extazy: node index.js
